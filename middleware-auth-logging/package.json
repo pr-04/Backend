@@ -1,0 +1,12 @@
+{
+  "name": "middleware-auth-logging",
+  "version": "1.0.0",
+  "description": "Express middleware for logging and bearer token authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
